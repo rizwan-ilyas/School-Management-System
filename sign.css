@@ -1,0 +1,136 @@
+body{
+	
+}
+
+
+.q{background-color:#234adccf;border-radius:20px 20px 0px 0px;position:relative}
+.w{color:white;font-family:verdana;font-size:20px;display:inline-block;text-align:center;padding:20px;}
+a{color:white;text-decoration:none;}
+
+
+.w:hover  {
+    background-color: darkblue;
+    border-radius: 20px;
+}
+.r {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+
+    .r:hover {
+        background-color: darkblue;
+        border-radius: 20px 0px 0px 0px;
+    }
+.logo{
+	background-image:url('school1.jpg');
+	background-repeat:no-repeat;
+	height:15%;
+	display:flex;
+	margin-left:3%;
+	
+	
+}
+
+
+
+
+
+
+
+
+.box{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image:url('blueshade.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+}
+.smallbox{
+	background-color:white;
+	width:70%;
+	height:70%;
+	border-radius: 25px;
+	display:flex;
+}
+.column1{
+	
+	display:inline-block;
+	width:50%;
+}
+.image{
+  display: block;
+  margin:auto;
+  padding-top:09%;
+
+	
+}
+.column2{
+	display:inline-block;
+	width:50%;
+}
+.sms{
+	font-size:40px;
+	color:blue;
+	font-family: arial;
+	padding-left:20%;
+	display: block;
+	padding-top:20%;
+	padding-bottom:10%;
+}
+.loginid{
+	background: 
+    linear-gradient(#000, #000) center bottom 5px /calc(100% - 10px) 2px no-repeat;
+	background-color: #fcfcfc;
+	font-family:verdana;
+	height:50px;
+	width:70%;
+	border-radius: 20px;
+	font-size:20px;
+	border-color:transparent;
+}
+.password{
+	background: 
+    linear-gradient(#000, #000) center bottom 5px /calc(100% - 10px) 2px no-repeat;
+	background-color: #fcfcfc;
+	margin-top:30px;
+	font-family:verdana;
+	height:50px;
+	width:70%;
+	font-size:20px;
+	border-color:transparent;
+}
+.btn{
+	margin-top:30px;
+	font-family:century gothic;
+	height:50px;
+	color:white;
+	font-weigth:bold;
+	width:70%;
+	border-color:transparent;
+	border-radius: 20px;
+	font-size:30px;
+	background-color:#57b846;
+	
+}
+.loginid:hover, .password:hover{
+	background-color: transparent;
+	background-color:#e6e6e6;
+	border-radius: 20px;
+}
+.btn:hover {
+	background-color: transparent;
+	border-color:#57b846;
+	color:green;
+}
+
+
+
+
+

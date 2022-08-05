@@ -1,0 +1,95 @@
+body{
+	
+}
+
+.q{background-color:#234adccf;border-radius:20px 20px 0px 0px;position:relative}
+.w{color:white;font-family:verdana;font-size:20px;display:inline-block;text-align:center;padding:20px;}
+a{color:white;text-decoration:none;}
+
+.w:hover {
+    background-color: darkblue;
+    border-radius: 20px;
+}
+.r {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+
+    .r:hover {
+        background-color: darkblue;
+        border-radius: 20px 0px 0px 0px;
+    }
+
+
+
+
+
+video{
+position:relative;
+right:0;
+bottom:0;
+max-width:100%;
+min-height:40%;
+border-radius: 0px 0px 20px 20px; 
+	
+}
+
+.logo{
+	background-image:url('school1.jpg');
+	background-repeat:no-repeat;
+	height:15%;
+	display:flex;
+	margin-left:3%;
+	
+	
+}
+
+
+.foot{
+	height:30%;
+	width:30%;
+	background-color:#4c6ce3;
+	display:inline-block;
+	position:relative;
+	border-radius: 20px 20px 20px 20px; 
+}
+.feet{
+	height:30%;
+	width:68%;
+	background-color:white;
+	display:inline-block;
+	align:right;
+	position:absolute;
+	margin-left:2%;
+	border-radius: 20px 20px 20px 20px; 
+
+}
+.about{
+	font-size:20px;
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+h1{
+color:#e4d128;
+display:inline-block;
+margin:auto;
+margin-left:20px;
+}
+.mission{
+	color:white;
+	font-family:verdana;
+	size:25px;
+	text-align:center;
+	margin:auto;
+	padding-top:20px;
+}
+
+
+/* for mobile phones:*/
+@media only screen and (max-width:760px){[class*="z"]{width:100%}}

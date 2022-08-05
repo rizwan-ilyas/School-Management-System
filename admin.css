@@ -1,0 +1,135 @@
+.logo{
+	background-image:url('school1.jpg');
+	background-repeat:no-repeat;
+	height:15%;
+	width:auto;
+	display:flex;
+	margin-left:3%;
+	
+	
+}
+.head{
+	display:inline-block;
+	width:90%;
+	
+}
+.logout{
+	display:inline-block;
+	
+}
+.log{
+	background-color:green;
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+.log:hover{
+	background-color:green;
+}
+
+.box{
+	margin:auto;
+	height:80%;
+	width:100%;
+}
+.dash{
+	background-color:#f44336;
+	width:22%;
+	height:90%;
+	float:left;
+	margin:auto;
+	margin-left:2%;
+	display:inline-block;
+	border-radius:20px;
+	margin-top:2%;
+}
+.others{
+	display:inline-block;
+	background-color:geen;
+	width:70%;
+	height:100%;
+	margin-right:2%;
+	
+	
+}
+
+.student{	
+	background-image:url('studentimg1.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	display:inline-block;
+	width:45%;
+	height:45%;
+	border-radius:25px;
+	margin-top:2%;
+	margin-left:2%;
+	font-size:40px;
+	text-align:center;
+	transition:width 1s;
+	font-weight:bold;
+
+}
+
+
+
+.admit{
+	background-color:#dc6a18c7;
+	display:inline-block;
+	width:45%;
+	height:45%;
+	border-radius:25px;
+	margin-top:2%;
+	margin-left:2%;
+	font-size:40px;
+	text-align:center;
+	transition:width 1s;
+	font-weight:bold;
+}
+.admit:hover , .student:hover , .managemenet:hover , .noti:hover{
+	width:50%;
+}
+.managemenet{
+	background-color:#73b3d5;
+	display:inline-block;
+	width:45%;
+	height:45%;
+	border-radius:25px;
+	margin-top:2%;
+	margin-left:2%;
+	font-size:40px;
+	text-align:center;
+	transition:width 1s;
+	font-weight:bold;
+}
+.l{
+	font-size:20px;
+	background-color:transparent;
+	color:black;
+	float:left;
+	margin-left:15%;
+}
+.noti{
+	background-color:blue;
+	display:inline-block;
+	width:45%;
+	height:45%;
+	border-radius:25px;
+	margin-top:2%;
+	margin-left:2%;
+	font-size:40px;
+	text-align:center;
+	background-image:url('noti.png');
+	background-repeat:no-repeat;
+	background-size:100%;
+	transition:width 1s;
+	font-weight:bold;
+}
+
+
+
+
+
+
+

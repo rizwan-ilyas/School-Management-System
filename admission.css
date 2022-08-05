@@ -1,0 +1,111 @@
+body{
+	
+}
+
+.q{background-color:#234adccf;border-radius:20px 20px 0px 0px;position:relative}
+.w{color:white;font-family:verdana;font-size:20px;display:inline-block;text-align:center;padding:20px;}
+a{color:white;text-decoration:none;}
+
+.w:hover {
+    background-color: darkblue;
+    border-radius: 20px;
+}
+.r {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+
+    .r:hover {
+        background-color: darkblue;
+        border-radius: 20px 0px 0px 0px;
+    }
+.logo{
+	background-image:url('school1.jpg');
+	background-repeat:no-repeat;
+	height:15%;
+	display:flex;
+	margin-left:3%;
+	
+	
+}
+
+
+.box{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image:url('addmissio.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-position:absolute;	
+}
+.smallbox{
+	background-color:white;
+	width:70%;
+	height:95%;
+	border-radius: 25px;
+	display:flex;
+	background-position:relative;
+}
+.head{
+	font-family:verdana;
+	font-weigth:bold;
+	font-size:15px;
+	color:grey;
+	margin-left:auto;
+	margin-right:auto;
+}
+.a{
+	display:inline-block;
+	float:left;
+	width:50%;
+	padding-right:15%;
+	padding-top:4%
+}
+.pic{
+	display:inline-block;
+	width:30%;
+	float:right;
+	padding-top:4%;
+
+}
+.picbox{
+	display:flex;
+	height:100px;
+	width:100px;
+	background-image:url('pic.jpg');
+	
+}
+
+.b{
+	padding-top:5%;
+	padding-left:0px;
+}
+
+.name, .fname, .phno, .cnic{
+	font-family:verdana;
+	font-size:15px;
+	font-color:black;
+}
+.submit{
+	margin:auto;
+	padding-left:50%;
+	padding-top:10px;
+	
+}
+.submitb{
+	background-color:blue;
+	color:white;
+	font-family:verdana;
+	font-weight:bold;
+	height:30px;
+}
+
+
+
+
